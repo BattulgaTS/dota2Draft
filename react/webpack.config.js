@@ -18,5 +18,9 @@ module.exports = {
       {test: /\.js$/, exclude: '/node_modules/', loader: 'babel-loader'}
     ]
   },
+  devServer: {
+    compress: true,
+    public: 'http://www.battulga.me' // That solved it
+  },
   plugins: [HtmlWebpackPluginConfig]
 }
