@@ -1,7 +1,7 @@
 const React = require('react');
 const ReactRouter = require('react-router');
 const Link = ReactRouter.Link;
-const Prompt = require('./Prompt');
+const Prompt = require('./prompt');
 const Axios = require('axios');
 
 
