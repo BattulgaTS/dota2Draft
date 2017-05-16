@@ -20,15 +20,38 @@ app.use(function(req, res, next) {
 app.post('/', function(req, res){
 	console.log('req.body', req.body);
 	let analyzedHero = 0;
-	analyzeHero(req.body.hero, function (data){
-		data.sort(function(a, b){return b.adv - a.adv});
-		analyzedHero++;
-		res.send(data);
-	});
+	var ret = [];
+	heroes.forEach(function(entry){
+		ret.push({
+			name: entry,
+			adv: 0
+		})
+	})
+	req.body.hero.some(function(entry) {
+		if (heroes.indexOf(entry) !== -1){
+			analyzeHero(entry, ret, function (data){
+				data.sort(function(a, b){return b.adv - a.adv});
+				analyzedHero++;
+				if (analyzedHero === req.body.hero.length) {
+					res.send(data);
+				}
+			});	
+		} else {
+			res.send(ret);
+			return true;
+		}
+	})
 })
 
 app.get('/heronames', function(req, res){
-	res.send(heroes);
+	var ret = [];
+	heroes.forEach(function(entry){
+		ret.push({
+			name: entry,
+			adv: 0
+		})
+	})
+	res.send(ret);
 })
 
 app.listen(3000, function () {
