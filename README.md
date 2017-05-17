@@ -15,10 +15,10 @@ You have React dev server on localhost:8080 and NodeJS webserver on localhost:30
 
 
 ## Tutorials I used to Build this project.
--https://reacttraining.com/online (ReactJS)
--https://digitalocean.com/community/tutorials/ (AWS Deployment)
+1.https://reacttraining.com/online (ReactJS)
+2.https://digitalocean.com/community/tutorials/ (AWS Deployment)
 
 ## Used frameworks & libraries.
--NodeJS (back-end server)
--ReactJS + webpack + dev environment tools(front-end)
--Nginx + AWS (Web server & proxy server)
+1.NodeJS (back-end server)
+2.ReactJS + webpack + dev environment tools(front-end)
+3.Nginx + AWS (Web server & proxy server)
