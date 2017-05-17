@@ -44,10 +44,10 @@ CFLAGS_OBJC_Debug :=
 CFLAGS_OBJCC_Debug :=
 
 INCS_Debug := \
-	-I/Users/Tulga/.node-gyp/6.10.3/include/node \
-	-I/Users/Tulga/.node-gyp/6.10.3/src \
-	-I/Users/Tulga/.node-gyp/6.10.3/deps/uv/include \
-	-I/Users/Tulga/.node-gyp/6.10.3/deps/v8/include
+	-I/Users/ideree/.node-gyp/6.10.3/include/node \
+	-I/Users/ideree/.node-gyp/6.10.3/src \
+	-I/Users/ideree/.node-gyp/6.10.3/deps/uv/include \
+	-I/Users/ideree/.node-gyp/6.10.3/deps/v8/include
 
 DEFS_Release := \
 	'-DNODE_GYP_MODULE_NAME=addon' \
@@ -89,10 +89,10 @@ CFLAGS_OBJC_Release :=
 CFLAGS_OBJCC_Release :=
 
 INCS_Release := \
-	-I/Users/Tulga/.node-gyp/6.10.3/include/node \
-	-I/Users/Tulga/.node-gyp/6.10.3/src \
-	-I/Users/Tulga/.node-gyp/6.10.3/deps/uv/include \
-	-I/Users/Tulga/.node-gyp/6.10.3/deps/v8/include
+	-I/Users/ideree/.node-gyp/6.10.3/include/node \
+	-I/Users/ideree/.node-gyp/6.10.3/src \
+	-I/Users/ideree/.node-gyp/6.10.3/deps/uv/include \
+	-I/Users/ideree/.node-gyp/6.10.3/deps/v8/include
 
 OBJS := \
 	$(obj).target/$(TARGET)/addon.o

@@ -3,7 +3,7 @@ const app = express()
 const bodyParser = require('body-parser')
 const path = require('path')
 
-const update = require('./updateData');
+// const update = require('./updateData');
 const heroes = require('./data/heroNames');
 const analyzeHero = require('./heroAnalyze');
 

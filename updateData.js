@@ -5,7 +5,7 @@ const axios = require('axios');
 const handleHtml = require('./htmlParser');
 const heroes = require('./data/heroNames');
 
-module.exports = function (){
+function update(){
 	let tasks = [];
 	heroes.forEach(function (entry) {
 		var task = function(callback) {
@@ -28,3 +28,5 @@ module.exports = function (){
 		console.log("done");
 	})
 }
+
+update();
