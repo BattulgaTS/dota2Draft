@@ -12,3 +12,13 @@ CIS 27 Final Project
 
 After this 6 steps:
 You have React dev server on localhost:8080 and NodeJS webserver on localhost:3000.
+
+
+Tutorials I used to Build this project.
+-https://reacttraining.com/online (ReactJS)
+-https://digitalocean.com/community/tutorials/ (AWS Deployment)
+
+Used frameworks & libraries.
+-NodeJS (back-end server)
+-ReactJS + webpack + dev environment tools(front-end)
+-Nginx + AWS (Web server & proxy server)

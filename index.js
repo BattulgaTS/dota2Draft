@@ -18,6 +18,7 @@ app.use(function(req, res, next) {
 });
 
 app.post('/webpack/api/', function(req, res){
+	console.log("POST", "/webpack/api");
 	console.log('req.body', req.body);
 	let analyzedHero = 0;
 	var ret = [];
@@ -44,6 +45,7 @@ app.post('/webpack/api/', function(req, res){
 })
 
 app.get('/webpack/api/heronames', function(req, res){
+	console.log("GET", "/webpack/api/heronames");
 	var ret = [];
 	heroes.forEach(function(entry){
 		ret.push({
@@ -55,5 +57,5 @@ app.get('/webpack/api/heronames', function(req, res){
 })
 
 app.listen(3000, function () {
-  console.log('Example app listening on port 3000')
+  console.log('Web Server is listening on port 3000')
 })

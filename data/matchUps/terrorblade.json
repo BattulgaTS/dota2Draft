@@ -1,562 +1,562 @@
 [
 	{
 		"name": "templar-assassin",
-		"adv": 3.8144,
-		"winRate": 55.3538
+		"adv": 3.8194,
+		"winRate": 55.3574
 	},
 	{
 		"name": "slardar",
-		"adv": 3.0847,
-		"winRate": 54.4997
+		"adv": 3.088,
+		"winRate": 54.4863
 	},
 	{
 		"name": "lifestealer",
-		"adv": 2.6856,
-		"winRate": 55.9428
+		"adv": 2.6764,
+		"winRate": 55.9299
 	},
 	{
 		"name": "wraith-king",
-		"adv": 2.6266,
-		"winRate": 46.2161
+		"adv": 2.6183,
+		"winRate": 46.2095
 	},
 	{
 		"name": "viper",
-		"adv": 2.4007,
-		"winRate": 53.5457
+		"adv": 2.3963,
+		"winRate": 53.5344
 	},
 	{
 		"name": "lycan",
-		"adv": 2.3605,
-		"winRate": 50.6926
+		"adv": 2.3631,
+		"winRate": 50.6897
 	},
 	{
 		"name": "anti-mage",
-		"adv": 2.3025,
-		"winRate": 54.0885
+		"adv": 2.3015,
+		"winRate": 54.0835
 	},
 	{
 		"name": "treant-protector",
-		"adv": 2.2543,
-		"winRate": 49.9897
+		"adv": 2.2534,
+		"winRate": 49.9846
 	},
 	{
 		"name": "vengeful-spirit",
-		"adv": 2.1467,
-		"winRate": 50.0926
+		"adv": 2.1514,
+		"winRate": 50.0885
 	},
 	{
 		"name": "visage",
-		"adv": 1.9701,
-		"winRate": 56.2657
+		"adv": 1.9611,
+		"winRate": 56.2649
 	},
 	{
 		"name": "venomancer",
-		"adv": 1.69,
-		"winRate": 50.3182
+		"adv": 1.6864,
+		"winRate": 50.3109
 	},
 	{
 		"name": "beastmaster",
-		"adv": 1.6533,
-		"winRate": 56.3757
+		"adv": 1.6818,
+		"winRate": 56.3917
 	},
 	{
 		"name": "clockwerk",
-		"adv": 1.6454,
-		"winRate": 50.6941
+		"adv": 1.631,
+		"winRate": 50.6751
 	},
 	{
 		"name": "bane",
-		"adv": 1.5956,
-		"winRate": 57.6697
+		"adv": 1.5794,
+		"winRate": 57.6407
 	},
 	{
 		"name": "dazzle",
-		"adv": 1.565,
-		"winRate": 51.2742
+		"adv": 1.5675,
+		"winRate": 51.2738
 	},
 	{
 		"name": "meepo",
-		"adv": 1.5161,
-		"winRate": 58.9783
+		"adv": 1.5041,
+		"winRate": 58.954
 	},
 	{
 		"name": "shadow-fiend",
-		"adv": 1.4643,
-		"winRate": 51.6733
+		"adv": 1.4655,
+		"winRate": 51.6683
 	},
 	{
 		"name": "omniknight",
-		"adv": 1.4237,
-		"winRate": 47.2776
-	},
-	{
-		"name": "clinkz",
-		"adv": 1.3637,
-		"winRate": 55.0658
+		"adv": 1.4247,
+		"winRate": 47.2743
 	},
 	{
 		"name": "undying",
-		"adv": 1.3477,
-		"winRate": 51.4821
+		"adv": 1.3639,
+		"winRate": 51.493
+	},
+	{
+		"name": "clinkz",
+		"adv": 1.3632,
+		"winRate": 55.0596
 	},
 	{
 		"name": "luna",
-		"adv": 1.337,
-		"winRate": 49.7661
+		"adv": 1.3378,
+		"winRate": 49.7588
 	},
 	{
 		"name": "spectre",
-		"adv": 1.3008,
-		"winRate": 43.0605
+		"adv": 1.2959,
+		"winRate": 43.0556
 	},
 	{
 		"name": "juggernaut",
-		"adv": 1.291,
-		"winRate": 52.0343
+		"adv": 1.29,
+		"winRate": 52.0309
 	},
 	{
 		"name": "shadow-shaman",
-		"adv": 1.2767,
-		"winRate": 49.4842
+		"adv": 1.2751,
+		"winRate": 49.4783
 	},
 	{
 		"name": "necrophos",
-		"adv": 1.2256,
-		"winRate": 46.0457
+		"adv": 1.2224,
+		"winRate": 46.0374
 	},
 	{
 		"name": "ancient-apparition",
-		"adv": 1.2057,
-		"winRate": 51.2573
+		"adv": 1.2015,
+		"winRate": 51.2478
 	},
 	{
 		"name": "silencer",
-		"adv": 1.1863,
-		"winRate": 48.95
+		"adv": 1.1719,
+		"winRate": 48.9316
 	},
 	{
 		"name": "phantom-assassin",
-		"adv": 1.021,
-		"winRate": 48.2244
+		"adv": 1.0187,
+		"winRate": 48.2156
 	},
 	{
 		"name": "chaos-knight",
-		"adv": 1.0207,
-		"winRate": 47.8036
+		"adv": 1.0168,
+		"winRate": 47.8012
 	},
 	{
 		"name": "chen",
-		"adv": 0.9864,
-		"winRate": 60.4701
+		"adv": 0.9729,
+		"winRate": 60.442
 	},
 	{
 		"name": "witch-doctor",
-		"adv": 0.9157,
-		"winRate": 50.2408
-	},
-	{
-		"name": "rubick",
-		"adv": 0.9014,
-		"winRate": 55.8142
+		"adv": 0.9071,
+		"winRate": 50.2309
 	},
 	{
 		"name": "monkey-king",
-		"adv": 0.8952,
-		"winRate": 57.9872
+		"adv": 0.8999,
+		"winRate": 57.9905
+	},
+	{
+		"name": "rubick",
+		"adv": 0.8943,
+		"winRate": 55.8054
 	},
 	{
 		"name": "spirit-breaker",
-		"adv": 0.8703,
-		"winRate": 46.7604
+		"adv": 0.8761,
+		"winRate": 46.7615
 	},
 	{
 		"name": "oracle",
-		"adv": 0.8075,
-		"winRate": 61.9064
+		"adv": 0.8267,
+		"winRate": 61.9155
 	},
 	{
 		"name": "night-stalker",
-		"adv": 0.7815,
-		"winRate": 51.5698
+		"adv": 0.7614,
+		"winRate": 51.5422
 	},
 	{
 		"name": "doom",
-		"adv": 0.7185,
-		"winRate": 58.1309
+		"adv": 0.7238,
+		"winRate": 58.1301
 	},
 	{
 		"name": "ogre-magi",
-		"adv": 0.7181,
-		"winRate": 49.4971
+		"adv": 0.713,
+		"winRate": 49.479
 	},
 	{
 		"name": "razor",
-		"adv": 0.6961,
-		"winRate": 56.5312
+		"adv": 0.6854,
+		"winRate": 56.5062
 	},
 	{
 		"name": "io",
-		"adv": 0.6497,
-		"winRate": 65.7343
+		"adv": 0.6368,
+		"winRate": 65.7199
 	},
 	{
 		"name": "pudge",
-		"adv": 0.5739,
-		"winRate": 49.5595
+		"adv": 0.5761,
+		"winRate": 49.5584
 	},
 	{
 		"name": "mirana",
-		"adv": 0.5609,
-		"winRate": 51.8705
+		"adv": 0.5611,
+		"winRate": 51.8679
 	},
 	{
 		"name": "faceless-void",
-		"adv": 0.4908,
-		"winRate": 51.872
+		"adv": 0.4795,
+		"winRate": 51.863
 	},
 	{
 		"name": "tiny",
-		"adv": 0.4294,
-		"winRate": 56.5207
+		"adv": 0.4269,
+		"winRate": 56.5139
 	},
 	{
 		"name": "lion",
-		"adv": 0.4207,
-		"winRate": 52.3915
+		"adv": 0.4176,
+		"winRate": 52.3892
 	},
 	{
 		"name": "alchemist",
-		"adv": 0.4109,
-		"winRate": 56.4186
+		"adv": 0.4045,
+		"winRate": 56.4091
 	},
 	{
 		"name": "bounty-hunter",
-		"adv": 0.3667,
-		"winRate": 52.9276
-	},
-	{
-		"name": "natures-prophet",
-		"adv": 0.2888,
-		"winRate": 56.6685
-	},
-	{
-		"name": "riki",
-		"adv": 0.2756,
-		"winRate": 45.5161
+		"adv": 0.3721,
+		"winRate": 52.9219
 	},
 	{
 		"name": "disruptor",
-		"adv": 0.2663,
-		"winRate": 50.7014
+		"adv": 0.278,
+		"winRate": 50.7062
+	},
+	{
+		"name": "riki",
+		"adv": 0.2749,
+		"winRate": 45.5137
+	},
+	{
+		"name": "natures-prophet",
+		"adv": 0.2708,
+		"winRate": 56.6546
 	},
 	{
 		"name": "ursa",
-		"adv": 0.258,
-		"winRate": 46.945
+		"adv": 0.2693,
+		"winRate": 46.952
 	},
 	{
 		"name": "centaur-warrunner",
-		"adv": 0.2263,
-		"winRate": 46.4447
+		"adv": 0.2233,
+		"winRate": 46.4336
 	},
 	{
 		"name": "death-prophet",
-		"adv": 0.2235,
-		"winRate": 54.1571
+		"adv": 0.2079,
+		"winRate": 54.1354
 	},
 	{
 		"name": "naga-siren",
-		"adv": 0.1901,
-		"winRate": 55.9279
+		"adv": 0.1877,
+		"winRate": 55.922
 	},
 	{
 		"name": "huskar",
-		"adv": 0.1578,
-		"winRate": 56.1956
+		"adv": 0.1559,
+		"winRate": 56.1805
 	},
 	{
 		"name": "dragon-knight",
-		"adv": 0.0499,
-		"winRate": 49.5524
+		"adv": 0.0518,
+		"winRate": 49.5482
 	},
 	{
 		"name": "enigma",
-		"adv": 0.0189,
-		"winRate": 47.6821
+		"adv": 0.0157,
+		"winRate": 47.6772
 	},
 	{
 		"name": "abaddon",
-		"adv": -0.0021,
-		"winRate": 45.1442
+		"adv": -0.0081,
+		"winRate": 45.139
 	},
 	{
 		"name": "enchantress",
-		"adv": -0.0331,
-		"winRate": 57.6115
+		"adv": -0.0208,
+		"winRate": 57.6177
 	},
 	{
 		"name": "tidehunter",
-		"adv": -0.0493,
-		"winRate": 49.7022
-	},
-	{
-		"name": "skywrath-mage",
-		"adv": -0.0698,
-		"winRate": 51.9323
+		"adv": -0.0593,
+		"winRate": 49.6933
 	},
 	{
 		"name": "tusk",
-		"adv": -0.081,
-		"winRate": 58.5345
+		"adv": -0.0694,
+		"winRate": 58.5441
+	},
+	{
+		"name": "skywrath-mage",
+		"adv": -0.075,
+		"winRate": 51.9268
 	},
 	{
 		"name": "shadow-demon",
-		"adv": -0.1572,
-		"winRate": 57.4379
-	},
-	{
-		"name": "nyx-assassin",
-		"adv": -0.2179,
-		"winRate": 50.6663
+		"adv": -0.1454,
+		"winRate": 57.4396
 	},
 	{
 		"name": "bristleback",
-		"adv": -0.2194,
-		"winRate": 47.5656
+		"adv": -0.223,
+		"winRate": 47.5633
+	},
+	{
+		"name": "nyx-assassin",
+		"adv": -0.235,
+		"winRate": 50.6435
 	},
 	{
 		"name": "weaver",
-		"adv": -0.2696,
-		"winRate": 50.0528
-	},
-	{
-		"name": "drow-ranger",
-		"adv": -0.343,
-		"winRate": 50.6306
-	},
-	{
-		"name": "earth-spirit",
-		"adv": -0.3558,
-		"winRate": 58.9602
+		"adv": -0.274,
+		"winRate": 50.0441
 	},
 	{
 		"name": "troll-warlord",
-		"adv": -0.3607,
-		"winRate": 46.0275
+		"adv": -0.3592,
+		"winRate": 46.0293
+	},
+	{
+		"name": "earth-spirit",
+		"adv": -0.3612,
+		"winRate": 58.9481
+	},
+	{
+		"name": "drow-ranger",
+		"adv": -0.3648,
+		"winRate": 50.6029
 	},
 	{
 		"name": "queen-of-pain",
-		"adv": -0.4671,
-		"winRate": 56.5186
+		"adv": -0.4622,
+		"winRate": 56.519
 	},
 	{
 		"name": "broodmother",
-		"adv": -0.6054,
-		"winRate": 60.0145
+		"adv": -0.6026,
+		"winRate": 60.0144
 	},
 	{
 		"name": "arc-warden",
-		"adv": -0.6521,
-		"winRate": 56.1169
+		"adv": -0.6612,
+		"winRate": 56.1068
 	},
 	{
 		"name": "brewmaster",
-		"adv": -0.6621,
-		"winRate": 52.2013
+		"adv": -0.6709,
+		"winRate": 52.191
 	},
 	{
 		"name": "bloodseeker",
-		"adv": -0.6918,
-		"winRate": 48.3065
-	},
-	{
-		"name": "warlock",
-		"adv": -0.7302,
-		"winRate": 47.5829
+		"adv": -0.6903,
+		"winRate": 48.3022
 	},
 	{
 		"name": "elder-titan",
-		"adv": -0.7391,
-		"winRate": 48.4114
+		"adv": -0.722,
+		"winRate": 48.4198
+	},
+	{
+		"name": "warlock",
+		"adv": -0.7488,
+		"winRate": 47.5619
 	},
 	{
 		"name": "winter-wyvern",
-		"adv": -0.7774,
-		"winRate": 53.9657
+		"adv": -0.7937,
+		"winRate": 53.9457
 	},
 	{
 		"name": "windranger",
-		"adv": -0.7908,
-		"winRate": 54.1141
+		"adv": -0.8002,
+		"winRate": 54.0966
 	},
 	{
 		"name": "sven",
-		"adv": -0.8203,
-		"winRate": 49.3848
+		"adv": -0.8141,
+		"winRate": 49.3552
 	},
 	{
 		"name": "crystal-maiden",
-		"adv": -0.8517,
-		"winRate": 44.9121
-	},
-	{
-		"name": "outworld-devourer",
-		"adv": -0.877,
-		"winRate": 51.6677
-	},
-	{
-		"name": "lich",
-		"adv": -0.8881,
-		"winRate": 46.4243
+		"adv": -0.8575,
+		"winRate": 44.8991
 	},
 	{
 		"name": "lone-druid",
-		"adv": -0.889,
-		"winRate": 60.0923
+		"adv": -0.8723,
+		"winRate": 60.1032
+	},
+	{
+		"name": "outworld-devourer",
+		"adv": -0.8748,
+		"winRate": 51.6577
+	},
+	{
+		"name": "lich",
+		"adv": -0.8799,
+		"winRate": 46.4293
 	},
 	{
 		"name": "magnus",
-		"adv": -0.9686,
-		"winRate": 54.0317
+		"adv": -0.9677,
+		"winRate": 54.0248
 	},
 	{
 		"name": "invoker",
-		"adv": -1.0109,
-		"winRate": 51.3134
-	},
-	{
-		"name": "medusa",
-		"adv": -1.1161,
-		"winRate": 50.3751
-	},
-	{
-		"name": "storm-spirit",
-		"adv": -1.1297,
-		"winRate": 50.6536
+		"adv": -1.0076,
+		"winRate": 51.3129
 	},
 	{
 		"name": "jakiro",
-		"adv": -1.1328,
-		"winRate": 46.1749
+		"adv": -1.1266,
+		"winRate": 46.1734
+	},
+	{
+		"name": "storm-spirit",
+		"adv": -1.1347,
+		"winRate": 50.6459
+	},
+	{
+		"name": "medusa",
+		"adv": -1.1347,
+		"winRate": 50.3612
 	},
 	{
 		"name": "pugna",
-		"adv": -1.1411,
-		"winRate": 51.8045
+		"adv": -1.1372,
+		"winRate": 51.8085
 	},
 	{
 		"name": "morphling",
-		"adv": -1.1544,
-		"winRate": 54.041
+		"adv": -1.1532,
+		"winRate": 54.0397
 	},
 	{
 		"name": "underlord",
-		"adv": -1.2145,
-		"winRate": 46.0823
+		"adv": -1.197,
+		"winRate": 46.0875
 	},
 	{
 		"name": "phoenix",
-		"adv": -1.2802,
-		"winRate": 48.9964
+		"adv": -1.2708,
+		"winRate": 49.0029
 	},
 	{
 		"name": "batrider",
-		"adv": -1.3219,
-		"winRate": 56.9509
+		"adv": -1.3449,
+		"winRate": 56.92
 	},
 	{
 		"name": "techies",
-		"adv": -1.3639,
-		"winRate": 49.0629
+		"adv": -1.3571,
+		"winRate": 49.0771
 	},
 	{
 		"name": "puck",
-		"adv": -1.3798,
-		"winRate": 56.2214
+		"adv": -1.37,
+		"winRate": 56.2252
 	},
 	{
 		"name": "leshrac",
-		"adv": -1.5399,
-		"winRate": 54.7804
+		"adv": -1.5396,
+		"winRate": 54.7784
 	},
 	{
 		"name": "kunkka",
-		"adv": -1.5608,
-		"winRate": 54.6283
+		"adv": -1.5769,
+		"winRate": 54.6028
 	},
 	{
 		"name": "ember-spirit",
-		"adv": -1.6805,
-		"winRate": 50.8424
-	},
-	{
-		"name": "earthshaker",
-		"adv": -1.7186,
-		"winRate": 48.1133
+		"adv": -1.6782,
+		"winRate": 50.8414
 	},
 	{
 		"name": "legion-commander",
-		"adv": -1.7241,
-		"winRate": 49.1924
+		"adv": -1.7161,
+		"winRate": 49.1992
+	},
+	{
+		"name": "earthshaker",
+		"adv": -1.7226,
+		"winRate": 48.1054
 	},
 	{
 		"name": "phantom-lancer",
-		"adv": -1.7633,
-		"winRate": 52.7929
+		"adv": -1.77,
+		"winRate": 52.7747
 	},
 	{
 		"name": "keeper-of-the-light",
-		"adv": -1.7753,
-		"winRate": 50.3193
+		"adv": -1.7828,
+		"winRate": 50.3086
 	},
 	{
 		"name": "gyrocopter",
-		"adv": -1.9511,
-		"winRate": 55.3501
+		"adv": -1.9531,
+		"winRate": 55.3421
 	},
 	{
 		"name": "lina",
-		"adv": -2.1338,
-		"winRate": 50.8967
+		"adv": -2.1362,
+		"winRate": 50.8936
 	},
 	{
 		"name": "slark",
-		"adv": -2.4095,
-		"winRate": 50.1956
+		"adv": -2.4144,
+		"winRate": 50.1881
 	},
 	{
 		"name": "dark-seer",
-		"adv": -2.558,
-		"winRate": 49.3733
+		"adv": -2.5677,
+		"winRate": 49.3549
 	},
 	{
 		"name": "sand-king",
-		"adv": -2.7295,
-		"winRate": 47.7202
+		"adv": -2.7307,
+		"winRate": 47.7165
 	},
 	{
 		"name": "zeus",
-		"adv": -2.895,
-		"winRate": 40.3255
+		"adv": -2.8884,
+		"winRate": 40.333
 	},
 	{
 		"name": "sniper",
-		"adv": -3.2118,
-		"winRate": 47.1917
+		"adv": -3.2092,
+		"winRate": 47.1902
 	},
 	{
 		"name": "axe",
-		"adv": -3.8314,
-		"winRate": 43.0147
+		"adv": -3.8303,
+		"winRate": 43.0128
 	},
 	{
 		"name": "tinker",
-		"adv": -4.6376,
-		"winRate": 46.8533
+		"adv": -4.6349,
+		"winRate": 46.8549
 	},
 	{
 		"name": "timbersaw",
-		"adv": -5.6341,
-		"winRate": 47.6189
+		"adv": -5.6321,
+		"winRate": 47.6125
 	}
 ]
