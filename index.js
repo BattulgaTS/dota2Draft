@@ -10,14 +10,14 @@ const analyzeHero = require('./heroAnalyze');
 
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
-// app.use(express.static(path.join(__dirname, '/dist')))
+app.use(express.static(path.join(__dirname, './react-webpack2/dist')))
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
 });
 
-app.post('/', function(req, res){
+app.post('/api/', function(req, res){
 	console.log('req.body', req.body);
 	let analyzedHero = 0;
 	var ret = [];
@@ -43,7 +43,7 @@ app.post('/', function(req, res){
 	})
 })
 
-app.get('/heronames', function(req, res){
+app.get('/api/heronames', function(req, res){
 	var ret = [];
 	heroes.forEach(function(entry){
 		ret.push({

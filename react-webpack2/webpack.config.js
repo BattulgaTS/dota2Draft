@@ -3,6 +3,13 @@
 const path = require('path');
 const webpack = require('webpack');
 
+var HtmlWebpackPlugin = require('html-webpack-plugin')
+var HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
+  template: __dirname + '/src/index.html',
+  filename: 'index.html',
+  inject: 'body'
+})
+
 var config = {
 	context: path.resolve(__dirname, './src'),
 	entry: {
@@ -39,12 +46,11 @@ var config = {
 	output: {
 		path: path.resolve(__dirname, './dist/'),
 		filename: '[name].bundle.js',
-    publicPath: '/assets',
 	},
 	devServer: {
     contentBase: path.resolve(__dirname, './src'),
   },
-
+  plugins: [HtmlWebpackPluginConfig],
   devtool: "eval-source-map" // Default development sourcemap
 };
 

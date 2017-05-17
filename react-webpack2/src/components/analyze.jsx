@@ -18,7 +18,7 @@ class analyze extends Component {
     this.handleSubmitUser = this.handleSubmitUser.bind(this);
   }
 	componentDidMount() {
-		Axios.get('http://localhost:3000/heronames')
+		Axios.get('http://localhost:3000/api/heronames')
 			.then((res) => {
 				this.setState({
 					heroes: res.data,
@@ -76,7 +76,7 @@ class analyze extends Component {
     e.preventDefault();
     const k = this;
     console.log('posting', this.state.reqHero);
-    Axios.post('http://localhost:3000/', { hero: this.state.reqHero })
+    Axios.post('http://localhost:3000/api/', { hero: this.state.reqHero })
       .then((res) => {
         console.log('res', res);
      		k.setState({
