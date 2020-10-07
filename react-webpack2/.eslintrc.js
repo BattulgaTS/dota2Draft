@@ -15,5 +15,6 @@ module.exports = {
       "no-mixed-spaces-and-tabs": 'off',
       "react/jsx-indent-props": 'off',
       "react/jsx-closing-bracket-location": 'off',
+      "linebreak-style": ["error", "windows"],
     }
 };
